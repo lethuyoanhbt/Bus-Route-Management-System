@@ -1,0 +1,92 @@
+10
+
+dir
+42
+http://xp-dev.com/svn/DBMiniProject/dbMiniProject/views
+http://xp-dev.com/svn/DBMiniProject
+
+
+
+2011-09-23T16:32:42.913345Z
+12
+razmik
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+incomplete
+5fc8c998-b670-4f1c-a306-14c5080efcbb
+
+
+
+
+
+
+0
+
+assistants
+dir
+
+branches
+dir
+
+bus_stops
+dir
+
+buses
+dir
+
+cities
+dir
+
+drivers
+dir
+
+elements
+dir
+
+employees
+dir
+
+errors
+dir
+
+groups
+dir
+
+helpers
+dir
+
+layouts
+dir
+
+logs
+dir
+
+pages
+dir
+
+routes
+dir
+
+scaffolds
+dir
+
+stations
+dir
+
+trips
+dir
+
+users
+dir
+

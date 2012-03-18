@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <?php
+        $id = $session->read('User.id');
+        ?>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <title>Bus Route Management System</title>
+            <?php echo $this->Html->css('cake.generic'); ?>
+            <?php echo $this->Html->css('jquery-ui-1.8.16.custom'); ?>
+            <?php echo $this->Html->css('index'); ?>
+            <?php echo $this->Html->script('jquery-1.6.2.min.js'); ?>
+            <?php echo $this->Html->script('jquery.jdigiclock'); ?>
+            <?php echo $this->Html->script('jquery-ui-1.8.16.custom.min'); ?>
+            <script>
+                $(function() {
+                    // a workaround for a flaw in the demo system (http://dev.jqueryui.com/ticket/4375), ignore!
+                    $( "#dialog:ui-dialog" ).dialog( "destroy" );
+                    $('.actions ul li').each(function(){$(this).button();});
+                    $('th.actions').hide();
+                    $('td.actions').hide().css('position','absolute').css('left','500px');
+                    $('table tbody tr').mouseenter(function() {
+                        var s = $(this).position();
+                        
+                        $(this).find('td.actions').show().css('top', s.top+30);
+                    });
+                    $(document).ready(function() {
+                        $('#digiclock').jdigiclock({
+                            // Configuration goes here
+                        });
+                    });
+                    $('table tbody tr').mouseleave(function() {
+                        $(this).find('td.actions').hide();
+                    });
+<?php $msg = $this->Session->flash() . $this->Session->flash('auth') . $this->Session->flash('acl'); ?>
+<?php if ($msg) : ?>
+            $( "#dialog-message" ).dialog({
+                modal: true,
+                minWidth: 700,
+                resizable : false,
+                buttons: {
+                    Ok: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            });
+<?php endif; ?>
+    });
+            </script>
+    </head>
+    <body>
+        <div id="headWrap">
+            <div id="head">
+                <div class="frmShdwTopLt"><div class="frmShdwBottomRt"><div class="frmShdwBottomLt"><div class="frmShdwTopRt"><input type="text" name="search" value=""></div></div></div></div>
+                <div id="topnav">
+                    <ul>
+
+                        <li><?php echo $html->link('My Account', array('controller' => 'users', 'action' => 'logout')); ?></li>
+                        <li class="blank">|</li>
+                        <li><?php echo $html->link('Logout', array('controller' => 'users', 'action' => 'logout')); ?></li>
+                    </ul>
+                </div>
+                <div id="mainNav">
+                    <ul>
+                        <li><?php echo $html->link('Home', '/', null, null); ?></li>
+                        <li><?php echo $html->link('Profile', array('controller' => 'users', 'action' => 'view', $users_id)); ?></li>
+                        <li><div class="blank"></div></li>
+                        <li><?php echo $html->link('Help', '/'); ?></li>
+                        <li><?php echo $html->link('Support', '/'); ?></li>
+                    </ul>
+                </div>
+                <h1>awardchoice</h1>
+            </div>
+        </div>
+        <div id="mainWrap">
+            <div id="mainContenBlank">
+                <div id="mainConten">
+                    <?php echo $content_for_layout; ?>
+                </div>
+                <div id="mainBottom"></div>
+                <div id="footPanel">
+                    <div id="footlinks">
+                        <ul>
+                            <li><a href="http://executioncycle.lkblog.com/">Features</a></li>
+                            <li><a href="http://executioncycle.lkblog.com/">Security</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://executioncycle.lkblog.com/">Localization</a></li>
+                            <li><a href="http://executioncycle.lkblog.com/">Optimization</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://executioncycle.lkblog.com/">Users</a></li>
+                            <li><a href="http://executioncycle.lkblog.com/">Caching</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://executioncycle.lkblog.com/">User Friendly</a></li>
+                            <li><a href="http://executioncycle.lkblog.com/">REST api</a></li>
+                        </ul>
+                        <ul>
+                            <li><?php echo $html->link("Engligh", '/lang/eng', null, null, false); ?></li>
+                            <li><?php echo $html->link("සිංහල", 'http://localhost/dbMiniProject/stations/view/1/si', null, null, false); ?></li>
+                            <li><?php echo $html->link("தமிழ்", 'http://localhost/dbMiniProject/stations/view/1/ta', null, null, false); ?> </li>
+                        </ul>
+                    </div>
+                    <p>&copy; Fabulous MPR.&nbsp;All&nbsp;rights&nbsp;reserved.<br>Designed by : <a href="http://www.ideawide.com/">Fabulous&nbsp;MRP</a></p>
+                </div>
+            </div>
+        </div>
+        <div id="dialog-message" title="Bus Route Managment System">
+            <p>
+                <?php echo $msg ?>
+            </p>
+        </div>
+        <div id ="tooltip" style="">sdasd</div>
+    </body>
+</html>

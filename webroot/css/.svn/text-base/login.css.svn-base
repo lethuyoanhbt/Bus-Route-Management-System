@@ -1,0 +1,19 @@
+body { margin: 0px; padding: 0px; }
+a:active, a:focus { outline: 0pt none; }
+input:active, input:focus, input:hover { outline: 0pt none; }
+#loginWrap { margin: 0pt auto; padding: 0px; width: 900px; }
+#loginMain { width: 900px; height: 520px; margin: 86px 0pt 0pt; padding: 0px; float: left; background: url('http://localhost/dbMiniProject/img/loginbg.png') no-repeat scroll 0% 0% transparent; }
+#loginLogin { width: 204px; height: 127px; margin: 196px 0pt 0pt; padding: 0pt 70px 0pt 207px; float: left; background: url('http://localhost/dbMiniProject/img/loginlogo.png') no-repeat scroll 207px top transparent; }
+#loginhead { width: 108px; height: 36px; padding: 0px; margin: 169px 0pt 0pt; float: left; background: url('http://localhost/dbMiniProject/img/loginhead.png') no-repeat scroll 0% 0% transparent; }
+#loginform { width: 200px; margin: 4px 0pt 0pt; padding: 0pt 217px 0pt 0pt; float: left; }
+#loginform label { width: 200px; margin: 0px; padding: 0pt 217px 0pt 0pt; float: left; }
+#loginform label input { width: 173px; height: 19px; margin: 14px 0pt 0pt; padding: 3px 0pt 0pt 10px; float: left; font-family: Arial; font-size: 12px; color: rgb(255, 255, 255); line-height: 16px; font-style: italic; border: 0px none; background: url('http://localhost/dbMiniProject/img/logintxt.png') no-repeat scroll 0% 0% transparent; }
+#loginform label input:focus { background: url('http://localhost/dbMiniProject/img/logintxtfocus.png') no-repeat scroll 0% 0% transparent; }
+#loginform label a { width: 93px; height: 20px; margin: 14px 0pt 0pt; padding: 3px 0pt 0pt; float: left; font-family: Arial; font-size: 12px; color: rgb(255, 255, 255); line-height: 16px; text-align: center; text-decoration: none; background: url('http://localhost/dbMiniProject/img/signinbutton.png') no-repeat scroll 0% 0% transparent; }
+#loginform label a:active { background: url('http://localhost/dbMiniProject/img/signinbuttonfocus.png') no-repeat scroll 0% 0% transparent; }
+#loginform .list { width: 200px; margin: 14px 0pt 0pt; padding: 0px; float: left; }
+#loginform .list a { width: auto; margin: 0px; padding: 0px; float: left; font-family: Arial; font-size: 12px; color: rgb(255, 255, 255); line-height: 16px; font-style: italic; text-decoration: none; background: none repeat scroll 0% 0% transparent; }
+#loginform .list a:hover { text-decoration: underline; }
+#loginform .list .space { width: 20px; height: 10px; margin: 0px; padding: 0px; float: left; }
+body { background: url('http://localhost/dbMiniProject/img/loginbg.jpg') repeat-x scroll 0% 0% rgb(51, 51, 51); }
+img, div, h1, ul, input, select, textarea, span, a {  }

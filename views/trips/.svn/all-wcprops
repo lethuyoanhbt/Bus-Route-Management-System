@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/trips
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/trips/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/trips/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/trips/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/trips/edit.ctp
+END

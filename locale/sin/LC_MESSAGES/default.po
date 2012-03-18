@@ -1,0 +1,1576 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-09-23 09:57+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\assistants_controller.php:13;35
+msgid "Invalid assistant"
+msgstr ""
+
+#: \controllers\assistants_controller.php:23;40
+msgid "The assistant has been saved"
+msgstr ""
+
+#: \controllers\assistants_controller.php:26;43
+msgid "The assistant could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\assistants_controller.php:55
+msgid "Invalid id for assistant"
+msgstr ""
+
+#: \controllers\assistants_controller.php:59
+msgid "Assistant deleted"
+msgstr ""
+
+#: \controllers\assistants_controller.php:62
+msgid "Assistant was not deleted"
+msgstr ""
+
+#: \controllers\branches_controller.php:13;35
+msgid "Invalid branch"
+msgstr ""
+
+#: \controllers\branches_controller.php:23;40
+msgid "The branch has been saved"
+msgstr ""
+
+#: \controllers\branches_controller.php:26;43
+msgid "The branch could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\branches_controller.php:55
+msgid "Invalid id for branch"
+msgstr ""
+
+#: \controllers\branches_controller.php:59
+msgid "Branch deleted"
+msgstr ""
+
+#: \controllers\branches_controller.php:62
+msgid "Branch was not deleted"
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:13;36
+msgid "Invalid bus stop"
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:23;41
+msgid "The bus stop has been saved"
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:26;44
+msgid "The bus stop could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:57
+msgid "Invalid id for bus stop"
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:61
+msgid "Bus stop deleted"
+msgstr ""
+
+#: \controllers\bus_stops_controller.php:64
+msgid "Bus stop was not deleted"
+msgstr ""
+
+#: \controllers\buses_controller.php:13;35
+msgid "Invalid bus"
+msgstr ""
+
+#: \controllers\buses_controller.php:23;40
+msgid "The bus has been saved"
+msgstr ""
+
+#: \controllers\buses_controller.php:26;43
+msgid "The bus could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\buses_controller.php:55
+msgid "Invalid id for bus"
+msgstr ""
+
+#: \controllers\buses_controller.php:59
+msgid "Bus deleted"
+msgstr ""
+
+#: \controllers\buses_controller.php:62
+msgid "Bus was not deleted"
+msgstr ""
+
+#: \controllers\cities_controller.php:13;35
+msgid "Invalid city"
+msgstr ""
+
+#: \controllers\cities_controller.php:23;40
+msgid "The city has been saved"
+msgstr ""
+
+#: \controllers\cities_controller.php:26;43
+msgid "The city could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\cities_controller.php:55
+msgid "Invalid id for city"
+msgstr ""
+
+#: \controllers\cities_controller.php:59
+msgid "City deleted"
+msgstr ""
+
+#: \controllers\cities_controller.php:62
+msgid "City was not deleted"
+msgstr ""
+
+#: \controllers\drivers_controller.php:13;35
+msgid "Invalid driver"
+msgstr ""
+
+#: \controllers\drivers_controller.php:23;40
+msgid "The driver has been saved"
+msgstr ""
+
+#: \controllers\drivers_controller.php:26;43
+msgid "The driver could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\drivers_controller.php:55
+msgid "Invalid id for driver"
+msgstr ""
+
+#: \controllers\drivers_controller.php:59
+msgid "Driver deleted"
+msgstr ""
+
+#: \controllers\drivers_controller.php:62
+msgid "Driver was not deleted"
+msgstr ""
+
+#: \controllers\employees_controller.php:13;33
+msgid "Invalid employee"
+msgstr ""
+
+#: \controllers\employees_controller.php:23;38
+msgid "The employee has been saved"
+msgstr ""
+
+#: \controllers\employees_controller.php:26;41
+msgid "The employee could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\employees_controller.php:51
+msgid "Invalid id for employee"
+msgstr ""
+
+#: \controllers\employees_controller.php:55
+msgid "Employee deleted"
+msgstr ""
+
+#: \controllers\employees_controller.php:58
+msgid "Employee was not deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:19;39
+msgid "Invalid group"
+msgstr ""
+
+#: \controllers\groups_controller.php:29;44
+msgid "The group has been saved"
+msgstr ""
+
+#: \controllers\groups_controller.php:32;47
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\groups_controller.php:57
+msgid "Invalid id for group"
+msgstr ""
+
+#: \controllers\groups_controller.php:61
+msgid "Group deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:64
+msgid "Group was not deleted"
+msgstr ""
+
+#: \controllers\logs_controller.php:13;35
+msgid "Invalid log"
+msgstr ""
+
+#: \controllers\logs_controller.php:23;40
+msgid "The log has been saved"
+msgstr ""
+
+#: \controllers\logs_controller.php:26;43
+msgid "The log could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\logs_controller.php:55
+msgid "Invalid id for log"
+msgstr ""
+
+#: \controllers\logs_controller.php:59
+msgid "Log deleted"
+msgstr ""
+
+#: \controllers\logs_controller.php:62
+msgid "Log was not deleted"
+msgstr ""
+
+#: \controllers\routes_controller.php:13;39
+msgid "Invalid route"
+msgstr ""
+
+#: \controllers\routes_controller.php:23;44
+msgid "The route has been saved"
+msgstr ""
+
+#: \controllers\routes_controller.php:26;47
+msgid "The route could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\routes_controller.php:63
+msgid "Invalid id for route"
+msgstr ""
+
+#: \controllers\routes_controller.php:67
+msgid "Route deleted"
+msgstr ""
+
+#: \controllers\routes_controller.php:70
+msgid "Route was not deleted"
+msgstr ""
+
+#: \controllers\stations_controller.php:14;34
+msgid "Invalid station"
+msgstr ""
+
+#: \controllers\stations_controller.php:24;39
+msgid "The station has been saved"
+msgstr ""
+
+#: \controllers\stations_controller.php:27;42
+msgid "The station could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\stations_controller.php:52
+msgid "Invalid id for station"
+msgstr ""
+
+#: \controllers\stations_controller.php:56
+msgid "Station deleted"
+msgstr ""
+
+#: \controllers\stations_controller.php:59
+msgid "Station was not deleted"
+msgstr ""
+
+#: \controllers\trips_controller.php:13;37
+msgid "Invalid trip"
+msgstr ""
+
+#: \controllers\trips_controller.php:23;42
+msgid "The trip has been saved"
+msgstr ""
+
+#: \controllers\trips_controller.php:26;45
+msgid "The trip could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\trips_controller.php:59
+msgid "Invalid id for trip"
+msgstr ""
+
+#: \controllers\trips_controller.php:63
+msgid "Trip deleted"
+msgstr ""
+
+#: \controllers\trips_controller.php:66
+msgid "Trip was not deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:42;88
+msgid "Invalid user"
+msgstr ""
+
+#: \controllers\users_controller.php:61;93
+msgid "The user has been saved"
+msgstr ""
+
+#: \controllers\users_controller.php:65;96
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:105
+msgid "Invalid id for user"
+msgstr ""
+
+#: \controllers\users_controller.php:109
+msgid "User deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:112
+msgid "User was not deleted"
+msgstr ""
+
+#: \controllers\components\log_util.php:106
+msgid "Log::getModel() - Model is not set or could not be found"
+msgstr ""
+
+#: \views\assistants\add.ctp:4
+msgid "Add Assistant"
+msgstr ""
+
+#: \views\assistants\add.ctp:9
+#: \views\assistants\edit.ctp:10
+#: \views\branches\add.ctp:10
+#: \views\branches\edit.ctp:11
+#: \views\bus_stops\add.ctp:11
+#: \views\bus_stops\edit.ctp:12
+#: \views\buses\add.ctp:11
+#: \views\buses\edit.ctp:12
+#: \views\cities\add.ctp:10
+#: \views\cities\edit.ctp:11
+#: \views\drivers\add.ctp:10
+#: \views\drivers\edit.ctp:11
+#: \views\employees\add.ctp:11
+#: \views\employees\edit.ctp:12
+#: \views\ends\add.ctp:8
+#: \views\ends\edit.ctp:9
+#: \views\groups\add.ctp:9
+#: \views\groups\edit.ctp:10
+#: \views\logs\add.ctp:15
+#: \views\logs\edit.ctp:16
+#: \views\routes\add.ctp:15
+#: \views\routes\edit.ctp:16
+#: \views\starts\add.ctp:8
+#: \views\starts\edit.ctp:9
+#: \views\stations\add.ctp:9
+#: \views\stations\edit.ctp:10
+#: \views\trips\add.ctp:12
+#: \views\trips\edit.ctp:13
+#: \views\users\add.ctp:17
+#: \views\users\edit.ctp:17
+msgid "Submit"
+msgstr ""
+
+#: \views\assistants\add.ctp:12
+#: \views\assistants\edit.ctp:13
+#: \views\assistants\index.ctp:7;45
+#: \views\assistants\view.ctp:17;39
+#: \views\branches\add.ctp:13
+#: \views\branches\edit.ctp:14
+#: \views\branches\index.ctp:8;47
+#: \views\branches\view.ctp:22
+#: \views\bus_stops\add.ctp:14
+#: \views\bus_stops\edit.ctp:15
+#: \views\bus_stops\index.ctp:8;47
+#: \views\bus_stops\view.ctp:22;44
+#: \views\buses\add.ctp:14
+#: \views\buses\edit.ctp:15
+#: \views\buses\index.ctp:9;49
+#: \views\buses\view.ctp:27;49
+#: \views\cities\add.ctp:13
+#: \views\cities\edit.ctp:14
+#: \views\cities\index.ctp:7;43
+#: \views\cities\view.ctp:17;39;77;117
+#: \views\drivers\add.ctp:13
+#: \views\drivers\edit.ctp:14
+#: \views\drivers\index.ctp:8;47
+#: \views\drivers\view.ctp:22;44
+#: \views\employees\add.ctp:14
+#: \views\employees\edit.ctp:15
+#: \views\employees\index.ctp:9;47
+#: \views\employees\view.ctp:27
+#: \views\ends\add.ctp:11
+#: \views\ends\edit.ctp:12
+#: \views\ends\index.ctp:6;41
+#: \views\ends\view.ctp:12
+#: \views\groups\add.ctp:12
+#: \views\groups\edit.ctp:13
+#: \views\groups\index.ctp:9;47
+#: \views\groups\view.ctp:27;48
+#: \views\logs\add.ctp:18
+#: \views\logs\edit.ctp:19
+#: \views\logs\index.ctp:15;61
+#: \views\logs\view.ctp:57
+#: \views\routes\add.ctp:18
+#: \views\routes\edit.ctp:19
+#: \views\routes\index.ctp:10;53
+#: \views\routes\view.ctp:32;57;96;133;169
+#: \views\starts\add.ctp:11
+#: \views\starts\edit.ctp:12
+#: \views\starts\index.ctp:6;41
+#: \views\starts\view.ctp:12
+#: \views\stations\add.ctp:12
+#: \views\stations\edit.ctp:13
+#: \views\stations\index.ctp:7;43
+#: \views\stations\view.ctp:17
+#: \views\trips\add.ctp:15
+#: \views\trips\edit.ctp:16
+#: \views\trips\index.ctp:10;55
+#: \views\trips\view.ctp:32
+#: \views\users\add.ctp:20
+#: \views\users\edit.ctp:20
+#: \views\users\index.ctp:13;57
+#: \views\users\view.ctp:48
+msgid "Actions"
+msgstr ""
+
+#: \views\assistants\add.ctp:15
+#: \views\assistants\edit.ctp:17
+#: \views\assistants\view.ctp:21
+#: \views\employees\add.ctp:18
+#: \views\employees\edit.ctp:20
+#: \views\employees\index.ctp:50
+#: \views\employees\view.ctp:33
+#: \views\trips\add.ctp:23
+#: \views\trips\edit.ctp:25
+#: \views\trips\index.ctp:62
+#: \views\trips\view.ctp:42
+msgid "List Assistants"
+msgstr ""
+
+#: \views\assistants\add.ctp:16
+#: \views\assistants\edit.ctp:18
+#: \views\assistants\index.ctp:48
+#: \views\assistants\view.ctp:23
+#: \views\drivers\add.ctp:17
+#: \views\drivers\edit.ctp:19
+#: \views\drivers\index.ctp:50
+#: \views\drivers\view.ctp:28
+#: \views\employees\add.ctp:17
+#: \views\employees\edit.ctp:19
+#: \views\employees\view.ctp:31
+msgid "List Employees"
+msgstr ""
+
+#: \views\assistants\add.ctp:17
+#: \views\assistants\edit.ctp:19
+#: \views\assistants\index.ctp:49
+#: \views\assistants\view.ctp:24
+#: \views\drivers\add.ctp:18
+#: \views\drivers\edit.ctp:20
+#: \views\drivers\index.ctp:51
+#: \views\drivers\view.ctp:29
+#: \views\employees\index.ctp:49
+#: \views\employees\view.ctp:32
+msgid "New Employee"
+msgstr ""
+
+#: \views\assistants\add.ctp:18
+#: \views\assistants\edit.ctp:20
+#: \views\assistants\index.ctp:50
+#: \views\assistants\view.ctp:25
+#: \views\buses\add.ctp:20
+#: \views\buses\edit.ctp:22
+#: \views\buses\index.ctp:54
+#: \views\buses\view.ctp:35
+#: \views\drivers\add.ctp:19
+#: \views\drivers\edit.ctp:21
+#: \views\drivers\index.ctp:52
+#: \views\drivers\view.ctp:30
+#: \views\trips\add.ctp:18
+#: \views\trips\edit.ctp:20
+#: \views\trips\view.ctp:36
+msgid "List Trips"
+msgstr ""
+
+#: \views\assistants\add.ctp:19
+#: \views\assistants\edit.ctp:21
+#: \views\assistants\index.ctp:51
+#: \views\assistants\view.ctp:26;67
+#: \views\buses\add.ctp:21
+#: \views\buses\edit.ctp:23
+#: \views\buses\index.ctp:55
+#: \views\buses\view.ctp:36;77
+#: \views\drivers\add.ctp:20
+#: \views\drivers\edit.ctp:22
+#: \views\drivers\index.ctp:53
+#: \views\drivers\view.ctp:31;72
+#: \views\trips\index.ctp:57
+#: \views\trips\view.ctp:37
+msgid "New Trip"
+msgstr ""
+
+#: \views\assistants\edit.ctp:4
+#: \views\assistants\view.ctp:19
+#: \views\employees\view.ctp:55
+msgid "Edit Assistant"
+msgstr ""
+
+#: \views\assistants\edit.ctp:16
+#: \views\assistants\index.ctp:25
+#: \views\assistants\view.ctp:58
+#: \views\branches\edit.ctp:17
+#: \views\branches\index.ctp:27
+#: \views\bus_stops\edit.ctp:18
+#: \views\bus_stops\index.ctp:27
+#: \views\bus_stops\view.ctp:63
+#: \views\buses\edit.ctp:18
+#: \views\buses\index.ctp:29
+#: \views\buses\view.ctp:68
+#: \views\cities\edit.ctp:17
+#: \views\cities\index.ctp:23
+#: \views\cities\view.ctp:56;94;136
+#: \views\drivers\edit.ctp:17
+#: \views\drivers\index.ctp:27
+#: \views\drivers\view.ctp:63
+#: \views\employees\edit.ctp:18
+#: \views\employees\index.ctp:27
+#: \views\ends\edit.ctp:15
+#: \views\ends\index.ctp:21
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:27
+#: \views\groups\view.ctp:68
+#: \views\logs\edit.ctp:22
+#: \views\logs\index.ctp:41
+#: \views\routes\edit.ctp:22
+#: \views\routes\index.ctp:33
+#: \views\routes\view.ctp:75;113;149;185
+#: \views\starts\edit.ctp:15
+#: \views\starts\index.ctp:21
+#: \views\stations\edit.ctp:16
+#: \views\stations\index.ctp:23
+#: \views\trips\edit.ctp:19
+#: \views\trips\index.ctp:35
+#: \views\users\edit.ctp:23
+#: \views\users\index.ctp:37
+msgid "Delete"
+msgstr ""
+
+#: \views\assistants\edit.ctp:16
+#: \views\assistants\index.ctp:25
+#: \views\assistants\view.ctp:20;58
+#: \views\branches\edit.ctp:17
+#: \views\branches\index.ctp:27
+#: \views\branches\view.ctp:25
+#: \views\bus_stops\edit.ctp:18
+#: \views\bus_stops\index.ctp:27
+#: \views\bus_stops\view.ctp:25;63
+#: \views\buses\edit.ctp:18
+#: \views\buses\index.ctp:29
+#: \views\buses\view.ctp:30;68
+#: \views\cities\edit.ctp:17
+#: \views\cities\index.ctp:23
+#: \views\cities\view.ctp:20;56;94;136
+#: \views\drivers\edit.ctp:17
+#: \views\drivers\index.ctp:27
+#: \views\drivers\view.ctp:25;63
+#: \views\employees\edit.ctp:18
+#: \views\employees\index.ctp:27
+#: \views\employees\view.ctp:30
+#: \views\ends\edit.ctp:15
+#: \views\ends\index.ctp:21
+#: \views\ends\view.ctp:15
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:27
+#: \views\groups\view.ctp:30;68
+#: \views\logs\edit.ctp:22
+#: \views\logs\index.ctp:41
+#: \views\logs\view.ctp:60
+#: \views\routes\edit.ctp:22
+#: \views\routes\index.ctp:33
+#: \views\routes\view.ctp:35;75;113;149;185
+#: \views\starts\edit.ctp:15
+#: \views\starts\index.ctp:21
+#: \views\starts\view.ctp:15
+#: \views\stations\edit.ctp:16
+#: \views\stations\index.ctp:23
+#: \views\stations\view.ctp:20
+#: \views\trips\edit.ctp:19
+#: \views\trips\index.ctp:35
+#: \views\trips\view.ctp:35
+#: \views\users\edit.ctp:23
+#: \views\users\index.ctp:37
+#: \views\users\view.ctp:51
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \views\assistants\index.ctp:2
+msgid "Assistants"
+msgstr ""
+
+#: \views\assistants\index.ctp:23
+#: \views\assistants\view.ctp:56
+#: \views\branches\index.ctp:25
+#: \views\bus_stops\index.ctp:25
+#: \views\bus_stops\view.ctp:61
+#: \views\buses\index.ctp:27
+#: \views\buses\view.ctp:66
+#: \views\cities\index.ctp:21
+#: \views\cities\view.ctp:54;92;134
+#: \views\drivers\index.ctp:25
+#: \views\drivers\view.ctp:61
+#: \views\employees\index.ctp:25
+#: \views\ends\index.ctp:19
+#: \views\groups\index.ctp:25
+#: \views\groups\view.ctp:66
+#: \views\logs\index.ctp:39
+#: \views\routes\index.ctp:31
+#: \views\routes\view.ctp:73;111;147;183
+#: \views\starts\index.ctp:19
+#: \views\stations\index.ctp:21
+#: \views\trips\index.ctp:33
+#: \views\users\index.ctp:35
+msgid "View"
+msgstr ""
+
+#: \views\assistants\index.ctp:24
+#: \views\assistants\view.ctp:57
+#: \views\branches\index.ctp:26
+#: \views\bus_stops\index.ctp:26
+#: \views\bus_stops\view.ctp:62
+#: \views\buses\index.ctp:28
+#: \views\buses\view.ctp:67
+#: \views\cities\index.ctp:22
+#: \views\cities\view.ctp:55;93;135
+#: \views\drivers\index.ctp:26
+#: \views\drivers\view.ctp:62
+#: \views\employees\index.ctp:26
+#: \views\ends\index.ctp:20
+#: \views\groups\index.ctp:26
+#: \views\groups\view.ctp:67
+#: \views\logs\index.ctp:40
+#: \views\routes\index.ctp:32
+#: \views\routes\view.ctp:74;112;148;184
+#: \views\starts\index.ctp:20
+#: \views\stations\index.ctp:22
+#: \views\trips\index.ctp:34
+#: \views\users\index.ctp:36
+msgid "Edit"
+msgstr ""
+
+#: \views\assistants\index.ctp:33
+#: \views\branches\index.ctp:35
+#: \views\bus_stops\index.ctp:35
+#: \views\buses\index.ctp:37
+#: \views\cities\index.ctp:31
+#: \views\drivers\index.ctp:35
+#: \views\employees\index.ctp:35
+#: \views\ends\index.ctp:29
+#: \views\groups\index.ctp:35
+#: \views\logs\index.ctp:49
+#: \views\routes\index.ctp:41
+#: \views\starts\index.ctp:29
+#: \views\stations\index.ctp:31
+#: \views\trips\index.ctp:43
+#: \views\users\index.ctp:45
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \views\assistants\index.ctp:38
+#: \views\branches\index.ctp:40
+#: \views\bus_stops\index.ctp:40
+#: \views\buses\index.ctp:42
+#: \views\cities\index.ctp:36
+#: \views\drivers\index.ctp:40
+#: \views\employees\index.ctp:40
+#: \views\ends\index.ctp:34
+#: \views\groups\index.ctp:40
+#: \views\logs\index.ctp:54
+#: \views\routes\index.ctp:46
+#: \views\starts\index.ctp:34
+#: \views\stations\index.ctp:36
+#: \views\trips\index.ctp:48
+#: \views\users\index.ctp:50
+msgid "previous"
+msgstr ""
+
+#: \views\assistants\index.ctp:41
+#: \views\branches\index.ctp:43
+#: \views\bus_stops\index.ctp:43
+#: \views\buses\index.ctp:45
+#: \views\cities\index.ctp:39
+#: \views\drivers\index.ctp:43
+#: \views\employees\index.ctp:43
+#: \views\ends\index.ctp:37
+#: \views\groups\index.ctp:43
+#: \views\logs\index.ctp:57
+#: \views\routes\index.ctp:49
+#: \views\starts\index.ctp:37
+#: \views\stations\index.ctp:39
+#: \views\trips\index.ctp:51
+#: \views\users\index.ctp:53
+msgid "next"
+msgstr ""
+
+#: \views\assistants\index.ctp:47
+#: \views\assistants\view.ctp:22
+#: \views\employees\add.ctp:19
+#: \views\employees\edit.ctp:21
+#: \views\employees\index.ctp:51
+#: \views\employees\view.ctp:34
+#: \views\trips\add.ctp:24
+#: \views\trips\edit.ctp:26
+#: \views\trips\index.ctp:63
+#: \views\trips\view.ctp:43
+msgid "New Assistant"
+msgstr ""
+
+#: \views\assistants\view.ctp:2
+#: \views\trips\view.ctp:19
+msgid "Assistant"
+msgstr ""
+
+#: \views\assistants\view.ctp:4;34
+#: \views\branches\view.ctp:4
+#: \views\bus_stops\view.ctp:4;39
+#: \views\buses\view.ctp:4;44
+#: \views\cities\view.ctp:4;36;74;112
+#: \views\drivers\view.ctp:4;39
+#: \views\employees\view.ctp:4;43;63
+#: \views\ends\view.ctp:4
+#: \views\groups\view.ctp:4;42
+#: \views\logs\view.ctp:4
+#: \views\routes\view.ctp:4;53;93;131;167
+#: \views\starts\view.ctp:4
+#: \views\stations\view.ctp:4
+#: \views\trips\view.ctp:4
+#: \views\users\view.ctp:5
+msgid "Id"
+msgstr ""
+
+#: \views\assistants\view.ctp:9
+#: \views\drivers\view.ctp:9
+#: \views\employees\view.ctp:2
+msgid "Employee"
+msgstr ""
+
+#: \views\assistants\view.ctp:20
+msgid "Delete Assistant"
+msgstr ""
+
+#: \views\assistants\view.ctp:30
+#: \views\buses\view.ctp:40
+#: \views\drivers\view.ctp:35
+msgid "Related Trips"
+msgstr ""
+
+#: \views\assistants\view.ctp:35
+#: \views\buses\view.ctp:45
+#: \views\drivers\view.ctp:40
+msgid "Bus Id"
+msgstr ""
+
+#: \views\assistants\view.ctp:36
+#: \views\buses\view.ctp:46
+#: \views\drivers\view.ctp:41
+msgid "Driver Id"
+msgstr ""
+
+#: \views\assistants\view.ctp:37
+#: \views\buses\view.ctp:47
+#: \views\drivers\view.ctp:42
+msgid "Assistant Id"
+msgstr ""
+
+#: \views\assistants\view.ctp:38
+#: \views\buses\view.ctp:48
+#: \views\drivers\view.ctp:43
+#: \views\trips\view.ctp:24
+msgid "Date"
+msgstr ""
+
+#: \views\branches\add.ctp:4
+msgid "Add Branch"
+msgstr ""
+
+#: \views\branches\add.ctp:16
+#: \views\branches\edit.ctp:18
+#: \views\branches\view.ctp:26
+#: \views\cities\add.ctp:17
+#: \views\cities\edit.ctp:19
+#: \views\cities\index.ctp:46
+#: \views\cities\view.ctp:23
+msgid "List Branches"
+msgstr ""
+
+#: \views\branches\add.ctp:17
+#: \views\branches\edit.ctp:19
+#: \views\branches\index.ctp:50
+#: \views\branches\view.ctp:28
+#: \views\bus_stops\add.ctp:18
+#: \views\bus_stops\edit.ctp:20
+#: \views\bus_stops\index.ctp:50
+#: \views\bus_stops\view.ctp:28
+#: \views\cities\add.ctp:16
+#: \views\cities\edit.ctp:18
+#: \views\cities\view.ctp:21
+#: \views\routes\add.ctp:28
+#: \views\routes\edit.ctp:30
+#: \views\routes\index.ctp:62
+#: \views\routes\view.ctp:44
+msgid "List Cities"
+msgstr ""
+
+#: \views\branches\add.ctp:18
+#: \views\branches\edit.ctp:20
+#: \views\branches\index.ctp:51
+#: \views\branches\view.ctp:29
+#: \views\bus_stops\add.ctp:19
+#: \views\bus_stops\edit.ctp:21
+#: \views\bus_stops\index.ctp:51
+#: \views\bus_stops\view.ctp:29
+#: \views\cities\index.ctp:45
+#: \views\cities\view.ctp:22
+#: \views\routes\add.ctp:29
+#: \views\routes\edit.ctp:31
+#: \views\routes\index.ctp:63
+#: \views\routes\view.ctp:45;158
+msgid "New City"
+msgstr ""
+
+#: \views\branches\edit.ctp:4
+#: \views\branches\view.ctp:24
+msgid "Edit Branch"
+msgstr ""
+
+#: \views\branches\index.ctp:2
+msgid "Branches"
+msgstr ""
+
+#: \views\branches\index.ctp:49
+#: \views\branches\view.ctp:27
+#: \views\cities\add.ctp:18
+#: \views\cities\edit.ctp:20
+#: \views\cities\index.ctp:47
+#: \views\cities\view.ctp:24;65
+msgid "New Branch"
+msgstr ""
+
+#: \views\branches\view.ctp:2
+msgid "Branch"
+msgstr ""
+
+#: \views\branches\view.ctp:9
+#: \views\bus_stops\view.ctp:9;40
+#: \views\cities\view.ctp:9;37;75;113
+#: \views\employees\view.ctp:9
+#: \views\groups\view.ctp:9
+#: \views\routes\view.ctp:9;94;132;168
+#: \views\stations\view.ctp:9
+#: \views\users\view.ctp:35
+msgid "Name"
+msgstr ""
+
+#: \views\branches\view.ctp:14
+#: \views\bus_stops\view.ctp:14
+#: \views\cities\view.ctp:2
+msgid "City"
+msgstr ""
+
+#: \views\branches\view.ctp:25
+msgid "Delete Branch"
+msgstr ""
+
+#: \views\bus_stops\add.ctp:4
+msgid "Add Bus Stop"
+msgstr ""
+
+#: \views\bus_stops\add.ctp:17
+#: \views\bus_stops\edit.ctp:19
+#: \views\bus_stops\view.ctp:26
+#: \views\cities\add.ctp:19
+#: \views\cities\edit.ctp:21
+#: \views\cities\index.ctp:48
+#: \views\cities\view.ctp:25
+#: \views\routes\add.ctp:26
+#: \views\routes\edit.ctp:28
+#: \views\routes\index.ctp:60
+#: \views\routes\view.ctp:42
+msgid "List Bus Stops"
+msgstr ""
+
+#: \views\bus_stops\add.ctp:20
+#: \views\bus_stops\edit.ctp:22
+#: \views\bus_stops\index.ctp:52
+#: \views\bus_stops\view.ctp:30
+#: \views\buses\add.ctp:18
+#: \views\buses\edit.ctp:20
+#: \views\buses\index.ctp:52
+#: \views\buses\view.ctp:33
+#: \views\cities\add.ctp:21
+#: \views\cities\edit.ctp:23
+#: \views\cities\index.ctp:50
+#: \views\cities\view.ctp:27
+#: \views\routes\add.ctp:21
+#: \views\routes\edit.ctp:23
+#: \views\routes\view.ctp:36
+msgid "List Routes"
+msgstr ""
+
+#: \views\bus_stops\add.ctp:21
+#: \views\bus_stops\edit.ctp:23
+#: \views\bus_stops\index.ctp:53
+#: \views\bus_stops\view.ctp:31;72
+#: \views\buses\add.ctp:19
+#: \views\buses\edit.ctp:21
+#: \views\buses\index.ctp:53
+#: \views\buses\view.ctp:34
+#: \views\cities\add.ctp:22
+#: \views\cities\edit.ctp:24
+#: \views\cities\index.ctp:51
+#: \views\cities\view.ctp:28;145
+#: \views\routes\index.ctp:55
+#: \views\routes\view.ctp:37
+msgid "New Route"
+msgstr ""
+
+#: \views\bus_stops\edit.ctp:4
+#: \views\bus_stops\view.ctp:24
+msgid "Edit Bus Stop"
+msgstr ""
+
+#: \views\bus_stops\index.ctp:2
+msgid "Bus Stops"
+msgstr ""
+
+#: \views\bus_stops\index.ctp:49
+#: \views\bus_stops\view.ctp:27
+#: \views\cities\add.ctp:20
+#: \views\cities\edit.ctp:22
+#: \views\cities\index.ctp:49
+#: \views\cities\view.ctp:26;103
+#: \views\routes\add.ctp:27
+#: \views\routes\edit.ctp:29
+#: \views\routes\index.ctp:61
+#: \views\routes\view.ctp:43;122
+msgid "New Bus Stop"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:2
+msgid "Bus Stop"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:25
+msgid "Delete Bus Stop"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:35
+#: \views\cities\view.ctp:108
+msgid "Related Routes"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:41
+#: \views\cities\view.ctp:114
+#: \views\routes\view.ctp:14
+msgid "Route No"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:42
+#: \views\cities\view.ctp:115
+msgid "End Station Id"
+msgstr ""
+
+#: \views\bus_stops\view.ctp:43
+#: \views\cities\view.ctp:116
+msgid "Start Station Id"
+msgstr ""
+
+#: \views\buses\add.ctp:4
+msgid "Add Bus"
+msgstr ""
+
+#: \views\buses\add.ctp:17
+#: \views\buses\edit.ctp:19
+#: \views\buses\view.ctp:31
+#: \views\routes\add.ctp:24
+#: \views\routes\edit.ctp:26
+#: \views\routes\index.ctp:58
+#: \views\routes\view.ctp:40
+#: \views\trips\add.ctp:19
+#: \views\trips\edit.ctp:21
+#: \views\trips\index.ctp:58
+#: \views\trips\view.ctp:38
+msgid "List Buses"
+msgstr ""
+
+#: \views\buses\edit.ctp:4
+#: \views\buses\view.ctp:29
+msgid "Edit Bus"
+msgstr ""
+
+#: \views\buses\index.ctp:2
+msgid "Buses"
+msgstr ""
+
+#: \views\buses\index.ctp:51
+#: \views\buses\view.ctp:32
+#: \views\routes\add.ctp:25
+#: \views\routes\edit.ctp:27
+#: \views\routes\index.ctp:59
+#: \views\routes\view.ctp:41;84
+#: \views\trips\add.ctp:20
+#: \views\trips\edit.ctp:22
+#: \views\trips\index.ctp:59
+#: \views\trips\view.ctp:39
+msgid "New Bus"
+msgstr ""
+
+#: \views\buses\view.ctp:2
+#: \views\trips\view.ctp:9
+msgid "Bus"
+msgstr ""
+
+#: \views\buses\view.ctp:9
+#: \views\routes\view.ctp:54
+msgid "Reg No"
+msgstr ""
+
+#: \views\buses\view.ctp:14
+#: \views\routes\view.ctp:55
+msgid "Seats"
+msgstr ""
+
+#: \views\buses\view.ctp:19
+#: \views\routes\view.ctp:2
+msgid "Route"
+msgstr ""
+
+#: \views\buses\view.ctp:30
+msgid "Delete Bus"
+msgstr ""
+
+#: \views\cities\add.ctp:4
+msgid "Add City"
+msgstr ""
+
+#: \views\cities\edit.ctp:4
+#: \views\cities\view.ctp:19
+msgid "Edit City"
+msgstr ""
+
+#: \views\cities\index.ctp:2
+msgid "Cities"
+msgstr ""
+
+#: \views\cities\view.ctp:20
+msgid "Delete City"
+msgstr ""
+
+#: \views\cities\view.ctp:32
+msgid "Related Branches"
+msgstr ""
+
+#: \views\cities\view.ctp:38;76
+#: \views\routes\view.ctp:95
+msgid "City Id"
+msgstr ""
+
+#: \views\cities\view.ctp:70
+#: \views\routes\view.ctp:89
+msgid "Related Bus Stops"
+msgstr ""
+
+#: \views\drivers\add.ctp:4
+msgid "Add Driver"
+msgstr ""
+
+#: \views\drivers\add.ctp:16
+#: \views\drivers\edit.ctp:18
+#: \views\drivers\view.ctp:26
+#: \views\employees\add.ctp:20
+#: \views\employees\edit.ctp:22
+#: \views\employees\index.ctp:52
+#: \views\employees\view.ctp:35
+#: \views\trips\add.ctp:21
+#: \views\trips\edit.ctp:23
+#: \views\trips\index.ctp:60
+#: \views\trips\view.ctp:40
+msgid "List Drivers"
+msgstr ""
+
+#: \views\drivers\edit.ctp:4
+#: \views\drivers\view.ctp:24
+#: \views\employees\view.ctp:79
+msgid "Edit Driver"
+msgstr ""
+
+#: \views\drivers\index.ctp:2
+msgid "Drivers"
+msgstr ""
+
+#: \views\drivers\index.ctp:49
+#: \views\drivers\view.ctp:27
+#: \views\employees\add.ctp:21
+#: \views\employees\edit.ctp:23
+#: \views\employees\index.ctp:53
+#: \views\employees\view.ctp:36
+#: \views\trips\add.ctp:22
+#: \views\trips\edit.ctp:24
+#: \views\trips\index.ctp:61
+#: \views\trips\view.ctp:41
+msgid "New Driver"
+msgstr ""
+
+#: \views\drivers\view.ctp:2
+#: \views\trips\view.ctp:14
+msgid "Driver"
+msgstr ""
+
+#: \views\drivers\view.ctp:14
+#: \views\employees\view.ctp:71
+msgid "Driver Licence"
+msgstr ""
+
+#: \views\drivers\view.ctp:25
+msgid "Delete Driver"
+msgstr ""
+
+#: \views\employees\add.ctp:4
+msgid "Add Employee"
+msgstr ""
+
+#: \views\employees\edit.ctp:4
+#: \views\employees\view.ctp:29
+msgid "Edit Employee"
+msgstr ""
+
+#: \views\employees\index.ctp:2
+msgid "Employees"
+msgstr ""
+
+#: \views\employees\view.ctp:14
+msgid "Telephone"
+msgstr ""
+
+#: \views\employees\view.ctp:19
+msgid "Salary"
+msgstr ""
+
+#: \views\employees\view.ctp:30
+msgid "Delete Employee"
+msgstr ""
+
+#: \views\employees\view.ctp:40
+msgid "Related Assistants"
+msgstr ""
+
+#: \views\employees\view.ctp:47;67
+msgid "Employee Id"
+msgstr ""
+
+#: \views\employees\view.ctp:60
+msgid "Related Drivers"
+msgstr ""
+
+#: \views\ends\add.ctp:4
+msgid "Add End"
+msgstr ""
+
+#: \views\ends\add.ctp:14
+#: \views\ends\edit.ctp:16
+#: \views\ends\view.ctp:16
+msgid "List Ends"
+msgstr ""
+
+#: \views\ends\edit.ctp:4
+#: \views\ends\view.ctp:14
+msgid "Edit End"
+msgstr ""
+
+#: \views\ends\index.ctp:2
+msgid "Ends"
+msgstr ""
+
+#: \views\ends\index.ctp:43
+#: \views\ends\view.ctp:17
+msgid "New End"
+msgstr ""
+
+#: \views\ends\view.ctp:2
+msgid "End"
+msgstr ""
+
+#: \views\ends\view.ctp:15
+msgid "Delete End"
+msgstr ""
+
+#: \views\groups\add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: \views\groups\add.ctp:15
+#: \views\groups\edit.ctp:17
+#: \views\groups\view.ctp:31
+#: \views\users\add.ctp:24
+#: \views\users\edit.ctp:25
+#: \views\users\index.ctp:60
+#: \views\users\view.ctp:54
+msgid "List Groups"
+msgstr ""
+
+#: \views\groups\add.ctp:16
+#: \views\groups\edit.ctp:18
+#: \views\groups\index.ctp:50
+#: \views\groups\view.ctp:33
+#: \views\logs\add.ctp:22
+#: \views\logs\edit.ctp:24
+#: \views\logs\index.ctp:64
+#: \views\logs\view.ctp:63
+#: \views\users\add.ctp:23
+#: \views\users\edit.ctp:24
+#: \views\users\view.ctp:52
+msgid "List Users"
+msgstr ""
+
+#: \views\groups\add.ctp:17
+#: \views\groups\edit.ctp:19
+#: \views\groups\index.ctp:51
+#: \views\groups\view.ctp:34;77
+#: \views\logs\add.ctp:23
+#: \views\logs\edit.ctp:25
+#: \views\logs\index.ctp:65
+#: \views\logs\view.ctp:64
+#: \views\users\index.ctp:59
+#: \views\users\view.ctp:53
+msgid "New User"
+msgstr ""
+
+#: \views\groups\edit.ctp:4
+#: \views\groups\view.ctp:29
+msgid "Edit Group"
+msgstr ""
+
+#: \views\groups\index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: \views\groups\index.ctp:49
+#: \views\groups\view.ctp:32
+#: \views\users\add.ctp:25
+#: \views\users\edit.ctp:26
+#: \views\users\index.ctp:61
+#: \views\users\view.ctp:55
+msgid "New Group"
+msgstr ""
+
+#: \views\groups\view.ctp:2
+#: \views\users\view.ctp:20
+msgid "Group"
+msgstr ""
+
+#: \views\groups\view.ctp:14;46
+#: \views\logs\view.ctp:39
+#: \views\users\view.ctp:25
+msgid "Created"
+msgstr ""
+
+#: \views\groups\view.ctp:19;47
+#: \views\logs\view.ctp:44
+#: \views\users\view.ctp:30
+msgid "Modified"
+msgstr ""
+
+#: \views\groups\view.ctp:30
+msgid "Delete Group"
+msgstr ""
+
+#: \views\groups\view.ctp:38
+msgid "Related Users"
+msgstr ""
+
+#: \views\groups\view.ctp:43
+#: \views\users\view.ctp:10
+msgid "Username"
+msgstr ""
+
+#: \views\groups\view.ctp:44
+#: \views\users\view.ctp:15
+msgid "Password"
+msgstr ""
+
+#: \views\groups\view.ctp:45
+msgid "Group Id"
+msgstr ""
+
+#: \views\layouts\default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: \views\layouts\default.ctp:45;65
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: \views\logs\add.ctp:4
+msgid "Add Log"
+msgstr ""
+
+#: \views\logs\add.ctp:21
+#: \views\logs\edit.ctp:23
+#: \views\logs\view.ctp:61
+msgid "List Logs"
+msgstr ""
+
+#: \views\logs\edit.ctp:4
+#: \views\logs\view.ctp:59
+msgid "Edit Log"
+msgstr ""
+
+#: \views\logs\index.ctp:2
+msgid "Logs"
+msgstr ""
+
+#: \views\logs\index.ctp:63
+#: \views\logs\view.ctp:62
+msgid "New Log"
+msgstr ""
+
+#: \views\logs\view.ctp:2
+msgid "Log"
+msgstr ""
+
+#: \views\logs\view.ctp:9
+msgid "Controller"
+msgstr ""
+
+#: \views\logs\view.ctp:14
+msgid "Action"
+msgstr ""
+
+#: \views\logs\view.ctp:19
+msgid "Params"
+msgstr ""
+
+#: \views\logs\view.ctp:24
+msgid "Url"
+msgstr ""
+
+#: \views\logs\view.ctp:29
+msgid "Description"
+msgstr ""
+
+#: \views\logs\view.ctp:34
+msgid "Type"
+msgstr ""
+
+#: \views\logs\view.ctp:49
+#: \views\users\view.ctp:3
+msgid "User"
+msgstr ""
+
+#: \views\logs\view.ctp:60
+msgid "Delete Log"
+msgstr ""
+
+#: \views\pages\home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: \views\pages\home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: \views\pages\home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: \views\pages\home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: \views\pages\home.ctp:40
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: \views\pages\home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: \views\pages\home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: \views\pages\home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: \views\pages\home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: \views\pages\home.ctp:74
+msgid "Editing this Page"
+msgstr ""
+
+#: \views\pages\home.ctp:77
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: \views\routes\add.ctp:4
+msgid "Add Route"
+msgstr ""
+
+#: \views\routes\add.ctp:22
+#: \views\routes\edit.ctp:24
+#: \views\routes\index.ctp:56
+#: \views\routes\view.ctp:38
+#: \views\stations\add.ctp:15
+#: \views\stations\edit.ctp:17
+#: \views\stations\view.ctp:21
+msgid "List Stations"
+msgstr ""
+
+#: \views\routes\add.ctp:23
+#: \views\routes\edit.ctp:25
+#: \views\routes\index.ctp:57
+#: \views\routes\view.ctp:39
+msgid "New End Station"
+msgstr ""
+
+#: \views\routes\edit.ctp:4
+#: \views\routes\view.ctp:34
+msgid "Edit Route"
+msgstr ""
+
+#: \views\routes\index.ctp:2
+msgid "Routes"
+msgstr ""
+
+#: \views\routes\view.ctp:19
+msgid "End Station"
+msgstr ""
+
+#: \views\routes\view.ctp:24
+msgid "Start Station"
+msgstr ""
+
+#: \views\routes\view.ctp:35
+msgid "Delete Route"
+msgstr ""
+
+#: \views\routes\view.ctp:49
+msgid "Related Buses"
+msgstr ""
+
+#: \views\routes\view.ctp:56
+msgid "Route Id"
+msgstr ""
+
+#: \views\routes\view.ctp:127
+msgid "Related Cities"
+msgstr ""
+
+#: \views\routes\view.ctp:163
+msgid "Related Stations"
+msgstr ""
+
+#: \views\routes\view.ctp:194
+#: \views\stations\index.ctp:45
+#: \views\stations\view.ctp:22
+msgid "New Station"
+msgstr ""
+
+#: \views\starts\add.ctp:4
+msgid "Add Start"
+msgstr ""
+
+#: \views\starts\add.ctp:14
+#: \views\starts\edit.ctp:16
+#: \views\starts\view.ctp:16
+msgid "List Starts"
+msgstr ""
+
+#: \views\starts\edit.ctp:4
+#: \views\starts\view.ctp:14
+msgid "Edit Start"
+msgstr ""
+
+#: \views\starts\index.ctp:2
+msgid "Starts"
+msgstr ""
+
+#: \views\starts\index.ctp:43
+#: \views\starts\view.ctp:17
+msgid "New Start"
+msgstr ""
+
+#: \views\starts\view.ctp:2
+msgid "Start"
+msgstr ""
+
+#: \views\starts\view.ctp:15
+msgid "Delete Start"
+msgstr ""
+
+#: \views\stations\add.ctp:4
+msgid "Add Station"
+msgstr ""
+
+#: \views\stations\edit.ctp:4
+#: \views\stations\view.ctp:19
+msgid "Edit Station"
+msgstr ""
+
+#: \views\stations\index.ctp:2
+msgid "Stations"
+msgstr ""
+
+#: \views\stations\view.ctp:2
+msgid "Station"
+msgstr ""
+
+#: \views\stations\view.ctp:20
+msgid "Delete Station"
+msgstr ""
+
+#: \views\trips\add.ctp:4
+msgid "Add Trip"
+msgstr ""
+
+#: \views\trips\edit.ctp:4
+#: \views\trips\view.ctp:34
+msgid "Edit Trip"
+msgstr ""
+
+#: \views\trips\index.ctp:2
+msgid "Trips"
+msgstr ""
+
+#: \views\trips\view.ctp:2
+msgid "Trip"
+msgstr ""
+
+#: \views\trips\view.ctp:35
+msgid "Delete Trip"
+msgstr ""
+
+#: \views\users\add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: \views\users\edit.ctp:4
+#: \views\users\view.ctp:50
+msgid "Edit User"
+msgstr ""
+
+#: \views\users\index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: \views\users\view.ctp:40
+msgid "Roles"
+msgstr ""
+
+#: \views\users\view.ctp:51
+msgid "Delete User"
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

@@ -1,0 +1,588 @@
+2011-09-13 20:41:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'EndStation.end_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-13 20:41:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.intermediate_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-13 20:41:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'StartStation.start_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-13 20:41:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-17 14:11:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.intermediate_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-17 14:35:13 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.intermediate_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-17 15:00:02 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.route_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-17 15:00:02 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.route_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-17 15:04:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.route_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-17 15:26:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'IntermediateStation.route_id' in 'field list'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 11:40:09 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'validate' at line 1</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 15:37:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 15:37:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 16:42:32 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:42:32 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:42:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:42:43 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:42:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:42:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:27 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:27 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:28 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:28 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:28 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:28 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:29 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:29 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:29 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:29 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:30 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:30 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:31 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:43:31 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:43:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/view in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:43:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:49:27 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 16:49:27 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Groups/index in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 16:49:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 16:59:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'admin1' for key 'username'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 17:05:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 17:05:53 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 17:17:17 Warning: Warning (512): DbAcl::allow() - Invalid node in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 361]
+2011-09-21 17:17:32 Warning: Warning (512): DbAcl::allow() - Invalid node in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 361]
+2011-09-21 17:19:16 Warning: Warning (512): DbAcl::allow() - Invalid node in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 361]
+2011-09-21 17:22:10 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 17:22:10 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Users/index in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 17:22:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 17:22:19 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 17:22:19 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Groups/index in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 17:22:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 17:22:26 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 17:22:26 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Employees/index in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 17:22:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 17:22:30 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 4
+)
+" in [C:\xampp\Cake\cake\libs\model\db_acl.php, line 191]
+2011-09-21 17:22:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 4
+            [username] => pasindu
+            [group_id] => 0
+            [created] => 2011-09-21 15:45:24
+            [modified] => 2011-09-21 15:45:24
+            [name] => Pasindu
+            [roles] => 
+        )
+
+)
+
+Aco: controllers/Stations/index in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 17:22:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 18:33:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: ANONY_USER
+Aco: /drivers in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-21 18:33:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\Cake\cake\libs\controller\controller.php, line 742]
+2011-09-21 19:56:10 Warning: Warning (2): fopen(1) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 79]
+2011-09-21 19:56:10 Warning: Warning (2): fread() expects parameter 1 to be resource, boolean given in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 79]
+2011-09-21 20:29:13 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'user2' for key 'username'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 20:30:22 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'user3' for key 'username'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 20:33:04 Warning: Warning (2): fopen(1) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 55]
+2011-09-21 20:33:04 Warning: Warning (2): fread() expects parameter 1 to be resource, boolean given in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 55]
+2011-09-21 20:36:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'admin3' for key 'username'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-21 20:42:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'admin3' for key 'username'</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-22 06:03:58 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Users/download in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-22 06:04:32 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Users/download in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-22 06:05:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Users/download in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-22 06:05:16 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Users/download in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-22 06:06:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Users/download in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-22 06:06:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:06:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:07:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:07:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:08:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:08:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:08:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:08:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:11:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:11:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:11:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:11:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-22 06:13:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 120]
+2011-09-22 06:13:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\Cake\cake\libs\debugger.php:673) in [C:\xampp\htdocs\dbMiniProject\controllers\users_controller.php, line 121]
+2011-09-23 10:25:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:19:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:20:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:20:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:20:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:22:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:22:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:22:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:24:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:24:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:24:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:25:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:25:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:25:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:32:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:32:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:32:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:38:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:39:32 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:40:31 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:40:31 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:40:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:40:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:41:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 11:41:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 16:15:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 16:16:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:13:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:13:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:16:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:16:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:26 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:26 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:17:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:18:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:30:08 Warning: Warning (512): Method HtmlHelper::js does not exist in [C:\xampp\Cake\cake\libs\view\helper.php, line 154]
+2011-09-23 18:30:09 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:38:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:39:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:48:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 18:52:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 19:09:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 19:17:09 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 19:23:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-23 19:28:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]

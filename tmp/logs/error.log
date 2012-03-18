@@ -1,0 +1,453 @@
+2011-09-24 07:00:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:00:49 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:07:58 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:08:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:08:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:08:58 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:24:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:28:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:36:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:36:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:38:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:38:31 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:38:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:38:53 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:38:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:43:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:43:26 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:43:39 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:43:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:43:52 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:43:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:45:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:45:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:45:48 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 07:45:48 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:46:15 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:46:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:50:30 Warning: Warning (2): array_walk_recursive() expects parameter 1 to be array, null given in [C:\xampp\htdocs\dbMiniProject\views\routes\api.ctp, line 3]
+2011-09-24 07:54:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:55:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:55:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:55:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:59:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 07:59:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 08:18:13 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:18:24 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:18:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 08:18:57 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:19:08 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:31:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:31:20 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:33:15 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 08:37:32 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 08:37:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 08:37:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 08:53:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 09:00:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 09:05:15 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 09:05:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'controller' cannot be null</span> in [C:\xampp\Cake\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-09-24 09:12:12 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 09:12:21 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/Routes/api in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]
+2011-09-24 11:09:37 Warning: Warning (2): mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] A connection attempt failed because the connected party did not  (trying to connect via tcp://localhost:3306) in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 561]
+2011-09-24 11:09:37 Warning: Warning (2): mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 561]
+2011-09-24 11:09:37 Warning: Warning (2): mysql_select_db() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 567]
+2011-09-24 11:09:37 Warning: Warning (2): mysql_get_server_info() expects parameter 1 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 575]
+2011-09-24 11:42:25 Warning: Warning (2): mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] A connection attempt failed because the connected party did not  (trying to connect via tcp://localhost:3306) in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 561]
+2011-09-24 11:42:25 Warning: Warning (2): mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 561]
+2011-09-24 11:42:25 Warning: Warning (2): mysql_select_db() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 567]
+2011-09-24 11:42:25 Warning: Warning (2): mysql_get_server_info() expects parameter 1 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 575]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_real_escape_string() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 680]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_real_escape_string() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 680]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_real_escape_string() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 680]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_real_escape_string() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 680]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_real_escape_string() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 680]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_query() expects parameter 2 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 609]
+2011-09-24 11:42:26 Warning: Warning (2): mysql_errno() expects parameter 1 to be resource, boolean given in [C:\xampp\Cake\cake\libs\model\datasources\dbo\dbo_mysql.php, line 691]
+2011-09-28 09:28:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => admin1
+            [group_id] => 1
+            [created] => 2011-09-21 17:00:39
+            [modified] => 2011-09-21 19:56:10
+            [name] => Admin1
+            [roles] => user
+            [img] => 
+        )
+
+)
+
+Aco: controllers/P28n/change in [C:\xampp\Cake\cake\libs\controller\components\acl.php, line 273]

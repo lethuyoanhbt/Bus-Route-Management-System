@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DBMiniProject/!svn/ver/12/dbMiniProject/views/cities
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/cities/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/cities/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DBMiniProject/!svn/ver/12/dbMiniProject/views/cities/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/cities/edit.ctp
+END

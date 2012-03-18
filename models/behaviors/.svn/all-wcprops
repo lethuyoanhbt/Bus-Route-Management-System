@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DBMiniProject/!svn/ver/5/dbMiniProject/models/behaviors
+END
+subclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DBMiniProject/!svn/ver/5/dbMiniProject/models/behaviors/subclass.php
+END
+searchable.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/models/behaviors/searchable.php
+END
+extendable.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DBMiniProject/!svn/ver/4/dbMiniProject/models/behaviors/extendable.php
+END

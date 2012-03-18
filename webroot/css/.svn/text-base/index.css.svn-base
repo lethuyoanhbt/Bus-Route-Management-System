@@ -1,0 +1,103 @@
+/* ::::: http://demo.templateworld.com/admin-templates/admin-01/styles.css ::::: */
+
+body { margin: 0px; padding: 0px; }
+a:active, a:focus { outline: 0pt none; }
+input:active, input:focus, input:hover { outline: 0pt none; }
+#headWrap { width: 100%; height: 179px; margin: 40px 0pt 0pt; padding: 0px; float: left; }
+#head { width: 860px; height: 179px; margin: 0pt auto; padding: 0pt 0pt 0pt 50px; background: url('http://localhost/dbMiniProject/img/headbg.png') no-repeat scroll 0% 0% transparent; }
+#head h1 { width: 193px; height: 27px; margin: 20px 0pt 0pt; padding: 0pt 0pt 0pt 312px; float: left; background: url('http://localhost/dbMiniProject/img/logo.jpg') no-repeat scroll right top transparent; text-indent: -9999px; }
+#head input { width: 119px; height: 20px; margin: 55px 0pt 0pt; padding: 3px 3px 0pt 26px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); font-weight: bold; background: url('http://localhost/dbMiniProject/img/search.png') no-repeat scroll 0% 0% transparent; border: 0px none; }
+#topnav { width: 175px; margin: 64px 0pt 0pt; padding: 0pt 0pt 0pt 487px; float: left; }
+#topnav ul { width: 180px; margin: 0px; padding: 0px; float: left; display: block; }
+#topnav ul li { width: auto; margin: 0px; padding: 0px; float: left; display: block; }
+#topnav ul li.blank { width: auto; margin: 0px; padding: 0pt 4px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); font-weight: bold; }
+#topnav ul li a { width: auto; margin: 0px; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); font-weight: bold; text-decoration: none; }
+#topnav ul li a:hover { text-decoration: underline; }
+#mainNav { width: 565px; height: 36px; margin: 12px 0pt 0pt; padding: 0pt 0pt 0pt 130px; float: left; }
+#mainNav ul { width: 565px; height: 36px; margin: 0px; padding: 0px; float: left; display: block; }
+#mainNav ul li { width: auto; height: 36px; margin: 0px; padding: 0px; float: left; display: block; }
+#mainNav ul li .blank { width: 220px; height: 36px; margin: 0px; padding: 0px; float: left; }
+#mainNav ul li a, #mainNav ul li a.active { width: 80px; height: 28px; margin: 0px; padding: 8px 0pt 0pt; float: left; font-family: Arial; font-size: 15px; color: rgb(255, 255, 255); line-height: 16px; text-align: center; text-decoration: none; }
+#mainNav ul li a:hover, #mainNav ul li a.active { background: url('http://localhost/dbMiniProject/img/hover.jpg') no-repeat scroll 0% 0% transparent; }
+#mainWrap { width: 100%; margin: 0px; padding: 0px; float: left; background: url('http://localhost/dbMiniProject/img/bottombg.jpg') repeat-x scroll left bottom transparent; }
+#mainContenBlank { width: 910px; margin: 0pt auto; padding: 0px; }
+#mainConten { width: 847px;overflow: hidden; margin: 0px; padding: 0pt 0pt 0pt 38px; float: left; background: url('http://localhost/dbMiniProject/img/mainfill.png') repeat-y scroll 0% 0% transparent; }
+.action { width: 212px; margin: 0px; padding: 50px 0pt 0pt; float: left; background: url('http://localhost/dbMiniProject/img/leftbg.jpg') no-repeat scroll right top transparent; }
+.action h2 { width: 189px; margin: 0px; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 12px; color: rgb(102, 102, 102); line-height: 16px; text-align: right; font-weight: normal; }
+.action .points { width: 196px; margin: 10px 0pt 0pt; padding: 0px; float: left; }
+.action .points h3 { width: 180px; margin: 10px 0pt 0pt; padding: 0pt 0pt 0pt 12px; float: left; font-family: Arial; font-size: 11px; color: rgb(140, 198, 63); font-style: italic; }
+.action .points .txt { width: 140px; margin: 5px 0pt 0pt; padding: 0pt 0pt 0pt 12px; float: left; font-family: Arial; font-size: 11px; color: rgb(77, 77, 77); font-style: italic; }
+.action .points .txt2 { width: 30px; margin: 5px 0pt 0pt; padding: 0pt 0pt 0pt 12px; float: left; font-family: Arial; font-size: 11px; color: rgb(77, 77, 77); font-style: italic; }
+.action .points .avil { width: 140px; margin: 5px 0pt 0pt; padding: 0pt 0pt 0pt 12px; float: left; font-family: Arial; font-size: 11px; color: rgb(41, 171, 226); font-style: italic; }
+.action .points .avil2 { width: 30px; margin: 5px 0pt 0pt; padding: 0pt 0pt 0pt 12px; float: left; font-family: Arial; font-size: 11px; color: rgb(41, 171, 226); font-style: italic; }
+#status { width: 195px; margin: 12px 0pt 0pt; padding: 0pt 0pt 30px 14px; float: left; border-bottom: 1px dashed rgb(192, 192, 192); }
+#status h3 { width: 180px; margin: 0px; padding: 0px; float: left; font-family: Arial; font-size: 10px; color: rgb(153, 153, 153); line-height: 14px; font-weight: normal; }
+#status select { width: 160px; height: 23px; margin: 4px 0pt 0pt; padding: 0px; float: left; border: 0px none; }
+#status .link { width: 180px; margin: 10px 0pt 0pt; padding: 0px; float: left; font-family: Arial; font-size: 10px; color: rgb(153, 153, 153); line-height: 14px; text-decoration: none; }
+#poll { width: 186px; margin: 32px 0pt 0pt; padding: 0pt 0pt 30px 14px; float: left; border-bottom: 1px dashed rgb(192, 192, 192); }
+#poll h3 { width: 158px; margin: 0px; padding: 0pt 24px 0pt 0pt; float: left; font-family: "Trebuchet MS"; font-size: 13px; color: rgb(102, 102, 102); line-height: 17px; font-weight: normal; text-align: right; background: url('http://localhost/dbMiniProject/img/arrow.jpg') no-repeat scroll right center transparent; }
+#poll p { width: 160px; margin: 20px 0pt 0pt; padding: 0px; float: left; font-family: Arial; font-size: 11px; color: rgb(77, 77, 77); line-height: 15px; font-style: italic; }
+#poll p.radio { color: rgb(128, 128, 128); }
+#poll p.radio input { margin: 4px 2px 0pt 0pt; }
+#poll p.radio label { width: 160px; float: left; margin: 0px; padding: 0px; }
+#poll .link { width: 75px; height: 18px; margin: 10px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 10px; color: rgb(255, 255, 255); line-height: 14px; text-align: center; text-decoration: none; background: url('http://localhost/dbMiniProject/img/button.jpg') no-repeat scroll 0% 0% transparent; }
+#poll .link:active { background: url('http://localhost/dbMiniProject/img/buttonactive.jpg') no-repeat scroll 0% 0% transparent; }
+#links { width: 208px; margin: 24px 0pt 0pt; padding: 0px; float: left; }
+#links h3 { width: 170px; margin: 0px; padding: 0pt 24px 0pt 0pt; float: left; font-family: "Trebuchet MS"; font-size: 13px; color: rgb(102, 102, 102); line-height: 17px; font-weight: normal; text-align: right; background: url('http://localhost/dbMiniProject/img/arrow.jpg') no-repeat scroll right center transparent; }
+#links ul { width: 208px; margin: 20px 0pt 0pt; padding: 0pt 0pt 58px; float: left; display: block; }
+#links ul li { width: 208px; margin: 0px; padding: 0px; float: left; display: block; }
+#links ul li a { width: 170px; height: 21px; margin: 0px; padding: 5px 38px 0pt 0pt; float: left; font-family: Arial; font-size: 11px; color: rgb(77, 77, 77); line-height: 15px; font-style: italic; text-align: right; text-decoration: none; }
+#links ul li a.middle { width: 170px; height: 21px; margin: 0px; padding: 5px 38px 0pt 0pt; float: left; font-family: Arial; font-size: 11px; color: rgb(77, 77, 77); line-height: 15px; font-style: italic; text-align: right; text-decoration: none; border-bottom: 1px solid rgb(217, 217, 217); border-top: 1px solid rgb(217, 217, 217); }
+.index, .form, .view { width: 585px; margin: 37px 0pt 0pt; padding: 0pt 0pt 0pt 22px; float: left; }
+#heading { width: 585px; height: 51px; margin: 0px; padding: 0px; float: left; border-bottom: 1px solid rgb(218, 206, 199); }
+#heading h2 { width: 250px; margin: 5px 0pt 0pt; padding: 0px; float: left; font-family: Arial; font-size: 27px; color: rgb(128, 128, 128); line-height: 31px; }
+#heading p { width: 332px; margin: 12px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); font-weight: bold; line-height: 31px; text-align: right; }
+#heading p a { color: rgb(128, 128, 128); text-decoration: none; }
+#heading p a:active { color: rgb(6, 108, 191); }
+#banner { width: 556px; height: 66px; margin: 17px 0pt 0pt; padding: 67px 0pt 0pt 27px; float: left; background: url('http://localhost/dbMiniProject/img/bluebanner.jpg') no-repeat scroll 0% 0% transparent; }
+#banner p { width: 556px; margin: 0px; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; }
+#banner p span { font-size: 21px; line-height: 25px; }
+#content { width: 583px; margin: 24px 0pt 0pt; padding: 0px; float: left; }
+#content p { font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; margin: 0px; }
+.index h3, .form h3, .view h3 { width: 585px; margin: 16px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 12px; color: rgb(102, 102, 102); font-style: italic; }
+#grid { width: 585px; margin: 0px; padding: 0px; float: left; }
+#grid .head { width: 558px; height: 39px; margin: 16px 0pt 0pt; padding: 0pt 0pt 0pt 27px; float: left; background: url('http://localhost/dbMiniProject/img/grigbgblue.jpg') no-repeat scroll 0% 0% transparent;}
+#grid .head .prog { width: 202px; margin: 10px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; }
+#grid .head .avail { width: 86px; margin: 3px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; text-align: center; }
+#grid .head .earned { width: 86px; margin: 3px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; text-align: center; }
+#grid .head .totoal { width: 92px; margin: 3px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; text-align: center; }
+#grid .head .completed { width: 88px; margin: 3px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; text-align: center; }
+#grid .filler { width: 558px; margin: 0px; padding: 5px 0pt 10px 27px; float: left; background: url('http://localhost/dbMiniProject/img/filler.jpg') repeat-y scroll 0% 0% transparent; }
+#grid .filler .prog { width: 202px; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; }
+#grid .filler .avail { width: 86px; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; text-align: center; }
+#grid .filler .earned { width: 86px; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; text-align: center; }
+#grid .filler .totoal { width: 92px; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; text-align: center; }
+#grid .filler .completed { width: 88px; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(128, 128, 128); line-height: 15px; text-align: center; }
+#grid .filler .prog a { width: auto; margin: 9px 0pt 0pt; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(73, 117, 37); line-height: 15px; text-decoration: none; }
+#grid .filler .prog a:hover { text-decoration: underline; }
+#grid .foot { width: 585px; height: 10px; margin: 0px; padding: 0px; float: left; background: url('http://localhost/dbMiniProject/img/grigbgblue.jpg') no-repeat scroll 0px bottom transparent; }
+#mainBottom { width: 910px; height: 42px; margin: 0px; padding: 0px; float: left; background: url('http://localhost/dbMiniProject/img/mainbottom.png') no-repeat scroll 0% 0% transparent; }
+#footPanel { width: 785px; margin: 16px 0pt 0pt; padding: 0pt 0pt 0pt 63px; float: left; }
+#footlinks { width: 600px; margin: 0px; padding: 0pt 0pt 82px; float: left; }
+#footlinks h2 { width: 600px; margin: 0px; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 12px; color: rgb(255, 255, 255); font-style: italic; }
+#footlinks ul { width: 122px; margin: 22px 0pt 0pt; padding: 0px; float: left; display: block; }
+#footlinks ul li { width: 122px; margin: 0px; padding: 0px; float: left; display: block; }
+#footlinks ul li a { width: auto; margin: 0px; padding: 0px; float: left; font-family: "Trebuchet MS"; font-size: 11px; color: rgb(255, 255, 255); line-height: 16px; font-style: italic; text-decoration: none; }
+#footlinks ul li a:hover { text-decoration: underline; }
+#footPanel p { width: auto; margin: 50px 0pt 0pt; padding: 0px; float: left; font-family: Arial; font-size: 11px; color: rgb(255, 255, 255); line-height: 15px; font-style: italic; text-align: right; }
+#footPanel p a { color: rgb(255, 255, 255); text-decoration: none; }
+/* ::::: http://demo.templateworld.com/admin-templates/admin-01/prettyForms.css ::::: */
+
+input, textarea, select { border: 0pt none; margin: 0px; padding: 0px; }
+label { float: left; margin: 5px; width: 100px; display: block; }
+.frmShdwTopLt { float: left; background: url('http://localhost/dbMiniProject/img/shadowupperleft.gif') no-repeat scroll left top transparent; }
+.frmShdwBottomRt { float: left; background: url('http://localhost/dbMiniProject/img/shadowlowerright.gif') no-repeat scroll right bottom transparent; }
+.frmShdwBottomLt { float: left; background: url('http://localhost/dbMiniProject/img/shadowbottomleft.gif') no-repeat scroll left bottom transparent; }
+.frmShdwTopRt { float: left; background: url('http://localhost/dbMiniProject/img/shadowtopright.gif') no-repeat scroll right top transparent; }
+.frmShdwRadio { float: left; margin: 0pt; }
+.frmShdwRadio img { border: 0pt none; margin: 0pt; }
+.frmShdwSelectDropChosen { margin: 0px; padding: 3px 0pt 0pt 5px ! important; float: left; height: 20px; border-left: 0px solid rgb(255, 255, 255) ! important; display: block; cursor: pointer; text-decoration: none; background: url('http://localhost/dbMiniProject/img/txtinputbg.jpg') no-repeat scroll 0% 0% transparent; font-family: Arial; font-size: 10px; color: rgb(128, 128, 128); line-height: 14px; font-style: italic; }
+.frmShdwSelectDrop { display: none; }
+.fakeSelectImg { border: 0pt none; margin: 0px; }
+img, div, h1, ul, input, select, textarea, span, a {  }
+body { background: url('http://localhost/dbMiniProject/img/adminbg.jpg') repeat-x scroll 0% 0% rgb(51, 51, 51); }

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DBMiniProject/!svn/ver/10/dbMiniProject/config
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DBMiniProject/!svn/ver/10/dbMiniProject/config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/config/database.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/config/bootstrap.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/config/core.php
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/config/acl.ini.php
+END

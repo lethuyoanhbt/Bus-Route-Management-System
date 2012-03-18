@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DBMiniProject/!svn/ver/12/dbMiniProject/views/bus_stops
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/bus_stops/add.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/bus_stops/index.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DBMiniProject/!svn/ver/12/dbMiniProject/views/bus_stops/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DBMiniProject/!svn/ver/3/dbMiniProject/views/bus_stops/edit.ctp
+END
